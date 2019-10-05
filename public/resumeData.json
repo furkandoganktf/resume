@@ -15,7 +15,7 @@
       "zip": "06800"
     },
     "website": "https://www.furkandoganktf.com",
-    "resumedownload": "/CV.pdf",
+    "resumedownload": "/resume/CV.pdf",
     "social": [
       {
         "name": "facebook",
@@ -70,7 +70,7 @@
         "company": "Neurocess Inc.",
         "title": "Software Developer",
         "years": "August 2019 - Present",
-        "description": "Building a real time sensor system with server and ui using python, nodeJS, React and rethinkDB."
+        "description": "Building a real time sensor system with server and ui using python, nodeJS, React and RethinkDB."
       },
       {
         "company": "Quanimo",
