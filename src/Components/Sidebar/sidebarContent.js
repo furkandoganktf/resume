@@ -17,6 +17,9 @@ const categories = [
   "Spring",
   "Database",
   "UI/UX",
+  "iOS",
+  "Interview",
+  "Security",
   "Life"
 ];
 
