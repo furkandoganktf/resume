@@ -66,7 +66,7 @@ class Readinglist extends React.Component {
       dataType: "json",
       cache: false,
       success: function(data) {
-        this.setState({ readingList: data.readingList, filteredList: data.readingList });
+        this.setState({ readingList: data.readingList.reverse(), filteredList: data.readingList.reverse() });
       }.bind(this),
       error: function(xhr, status, err) {
         console.log(err);
