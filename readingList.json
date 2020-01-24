@@ -178,7 +178,7 @@
     },
     {
       "title": "A'dan Z'ye Amazon Mülakat Tecrübem",
-      "description": "Nisan ayında Amazon’un Dublin ofisinde mülakat yaptıktan ve teklif aldıktan sonra, yaşadığım tecrübeyi paylaşma kararı verdim. Bir gün merakımdan Amazon’nun kariyer sayfasında açık olan ilanlara bakıyordum. O gün gözüme bir pozisyon takıldı, iş ilanında güvenlik alanındaki verilerin analizi için uğraşacak, Scala ve Spark bilen kişi arıyorlardı. Çok sıradan …",
+      "description": "Nisan ayında Amazon’un Dublin ofisinde mülakat yaptıktan ve teklif aldıktan sonra, yaşadığım tecrübeyi paylaşma kararı verdim.",
       "image": "https://www.lavendaire.com/wp-content/uploads/2016/01/reading-list.jpg",
       "url": "https://www.koseburak.net/blog/amazon-mulakat/",
       "categories": ["general", "interview"],
@@ -194,7 +194,7 @@
     },
     {
       "title": "How to leverage your React skills with static site generator Gatsby.js",
-      "description": "Sometimes a dynamic single-page app is overkill. You just need to get some attractive information on the internet. Welcome back to static sites. With the Gatsby.js [https://www.gatsbyjs.org] framework, you don’t have to leave your React skills behind in the pursuit of faster, better, weaker. Hiking above the treeline in Bucegi, Romania — totally unrelated to web development, but prettyWhat is a static site and why do you want one? A static site, as opposed to a dynamic site, is one that a) do",
+      "description": "Sometimes a dynamic single-page app is overkill. You just need to get some attractive information on the internet. Welcome back to static sites.",
       "image": "https://cdn-media-1.freecodecamp.org/images/1*0I74xPQNi5ngVIpsTxsLhg.jpeg",
       "url": "https://www.freecodecamp.org/news/how-to-leverage-your-react-skills-with-static-site-generator-gatsby-js-81843e928606/",
       "categories": ["react"],
@@ -274,7 +274,7 @@
     },
     {
       "title": "React + Redux - User Registration and Login Tutorial & Example | Jason Watmore's Blog",
-      "description": "LAST UPDATED: NOVEMBER 20 2019 - Tutorial on how to implement user registration and login functionality with React and Redux, including a boilerplate demo application and video on how to deploy to AWS.",
+      "description": "Tutorial on how to implement user registration and login functionality with React and Redux, including a boilerplate demo application and video on how to deploy to AWS.",
       "image": "https://www.lavendaire.com/wp-content/uploads/2016/01/reading-list.jpg",
       "url": "https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example",
       "categories": ["react"],
@@ -314,7 +314,7 @@
     },
     {
       "title": "Machine Learning Tutorial | Machine Learning with Python - Javatpoint",
-      "description": "Machine Learning Tutorial | Machine Learning with Python with Machine Learning, Machine Learning Tutorial, Machine Learning Introduction, What is Machine Learning, Data Machine Learning, Applications of Machine Learning, Machine Learning vs Artificial Intelligence, dimensionality reduction, deep learning, etc.",
+      "description": "Machine Learning with Python",
       "image": "https://www.javatpoint.com/images/logo/jtp_logo.png",
       "url": "https://www.javatpoint.com/machine-learning",
       "categories": ["machine learning", "python"],
@@ -322,7 +322,7 @@
     },
     {
       "title": "Wat",
-      "description": "The sarcasm in this talk does not represent anyone's actual opinion. For a more serious take on software, try Destroy All Software Screencasts: 10 to 15 minutes every other week, dense with information on advanced topics like Unix, TDD, OO Design, Vim, Ruby, and Git.",
+      "description": "For a more serious take on software, try Destroy All Software Screencasts: 10 to 15 minutes every other week, dense with information on advanced topics like Unix, TDD, OO Design, Vim, Ruby, and Git.",
       "image": "https://www.lavendaire.com/wp-content/uploads/2016/01/reading-list.jpg",
       "url": "https://www.destroyallsoftware.com/talks/wat",
       "categories": ["general"],
