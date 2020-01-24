@@ -108,7 +108,7 @@ class Readinglist extends React.Component {
       result.push(
         <Grid key={index} item xs={6} sm={6} md={3} lg={3}>
           <Card style={styles.card}>
-            <CardHeader title={element.title} subheader="September 14, 2016" />
+            <CardHeader title={element.title} subheader={element.dateAdded} />
             <CardMedia style={styles.media} image={element.image} title={element.title} />
             <CardContent>
               <Typography variant="h6">{element.description}</Typography>
