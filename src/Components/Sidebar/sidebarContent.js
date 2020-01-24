@@ -1,7 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
 import MaterialTitlePanel from "./materialTitlePanel";
-import { Link } from "react-router-dom";
 
 const categories = [
   "All",
