@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import MaterialTitlePanel from "./materialTitlePanel";
-import { NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 const categories = [
   "All",
@@ -68,7 +68,7 @@ const SidebarContent = props => {
     <MaterialTitlePanel id="top" title="Menu" style={style}>
       <div style={styles.content}>
         <li className="sidebarLink" style={styles.sidebarLink}>
-          <NavLink to="/">Home</NavLink>
+          <a href="/">Home</a>
         </li>
         {links}
       </div>
