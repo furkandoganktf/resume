@@ -1,0 +1,180 @@
+{
+  "readingList": [
+    {
+      "title": "7 React Libraries That Will Make Your Life Easier",
+      "description": "React libraries that every developer should know",
+      "image": "https://miro.medium.com/max/1200/0*uylTEaTvhCJaXwPl",
+      "url": "https://medium.com/better-programming/7-react-libraries-that-will-make-your-life-easier-1c760a6cd1cf",
+      "categories": ["react"],
+      "dateAdded": "Jan 5, 2020"
+    },
+    {
+      "title": "7 Rules for Creating Gorgeous UI (Part 2)",
+      "description": "A guide to visual aesthetics, written by a nerd",
+      "image": "https://miro.medium.com/max/1200/1*fM8Ji2M_oTcDs7obS7jsTw.png",
+      "url": "https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96",
+      "categories": ["ui/ux"],
+      "dateAdded": "Jan 5, 2020"
+    },
+    {
+      "title": "I created the exact same app in React and Vue. Here are the differences.",
+      "description": "React vs Vue. Finally, a side-by-side code comparison between Vue and React! 🎉",
+      "image": "https://miro.medium.com/max/1200/1*mJ-qdNqldpgae2U5oS0qDg.png",
+      "url": "https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd",
+      "categories": ["react"],
+      "dateAdded": "Jan 5, 2020"
+    },
+    {
+      "title": "A Practical Guide to Regular Expressions (RegEx) In JavaScript",
+      "description": "A quick guide to effectively leveraging regular expressions.",
+      "image": "https://miro.medium.com/max/1200/0*BigPCVhLTfAuHeY2",
+      "url": "https://blog.bitsrc.io/a-beginners-guide-to-regular-expressions-regex-in-javascript-9c58feb27eb4",
+      "categories": ["javascript"],
+      "dateAdded": "Jan 5, 2020"
+    },
+    {
+      "title": "Can you console.log in JSX?",
+      "description": "TLDR: You can’t do it",
+      "image": "https://miro.medium.com/max/860/1*OIfGKWZBZRsvKQZxQtr3Yw.jpeg",
+      "url": "https://medium.com/javascript-in-plain-english/can-you-console-log-in-jsx-732f2ad46fe1",
+      "categories": ["javascript"],
+      "dateAdded": "Jan 5, 2020"
+    },
+    {
+      "title": "Using the DOM like a Pro",
+      "description": "How to stop fearing the DOM, use it to its full potential and actually start loving it",
+      "image": "https://miro.medium.com/max/1200/0*mS7vEiMIgqRwI4vZ",
+      "url": "https://itnext.io/using-the-dom-like-a-pro-163a6c552eba",
+      "categories": ["javascript", "general"],
+      "dateAdded": "Jan 5, 2020"
+    },
+    {
+      "title": "JavaScript Promises: Zero To Hero Plus Cheat Sheet",
+      "description": "It’s time, friend. Native JavaScript promises explained how I wish they were explained to me — plus a handy cheat sheet.",
+      "image": "https://miro.medium.com/max/1200/0*0T0djw3AvXz6WFG5",
+      "url": "https://medium.com/dailyjs/javascript-promises-zero-to-hero-plus-cheat-sheet-64d75051cffa",
+      "categories": ["javascript"],
+      "dateAdded": "Jan 5, 2020"
+    },
+    {
+      "title": "A List of Fun Things You Can Build as a Developer",
+      "description": "Improve as a developer by getting your hands dirty",
+      "image": "https://miro.medium.com/max/873/1*043pHI4FMvM8rTDxF07uMw.jpeg",
+      "url": "https://medium.com/better-programming/a-list-of-fun-things-you-can-build-as-a-developer-bc07fd21c6e3",
+      "categories": ["general"],
+      "dateAdded": "Jan 5, 2020"
+    },
+    {
+      "title": "Everything you need to know about Packages in Go",
+      "description": "A complete overview of package management and deployment in Go programming language",
+      "image": "https://miro.medium.com/max/1200/1*Sw7x7OARGlbRpbY9PN2csA.png",
+      "url": "https://medium.com/rungo/everything-you-need-to-know-about-packages-in-go-b8bac62b74cc",
+      "categories": ["go"],
+      "dateAdded": "Jan 5, 2020"
+    },
+    {
+      "title": "How to prevent getting blocked while scraping",
+      "description": "Web scraping is a task that has to be performed responsibly so that it does not have a detrimental effect on the sites being scraped. Web Crawlers can",
+      "image": "https://www.scrapehero.com/wp/wp-content/uploads/2014/07/May-your-day-befilled-with.png",
+      "url": "https://www.scrapehero.com/how-to-prevent-getting-blacklisted-while-scraping/",
+      "categories": ["general"],
+      "dateAdded": "Jan 5, 2020"
+    },
+    {
+      "title": "The Ultimate Guide To iPhone Resolutions",
+      "description": "Articles about PaintCode's new features, interviews, application development topics.",
+      "image": "https://www.lavendaire.com/wp-content/uploads/2016/01/reading-list.jpg",
+      "url": "https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions",
+      "categories": ["ui/ux"],
+      "dateAdded": "Jan 5, 2020"
+    },
+    {
+      "title": "Themes - iOS - Human Interface Guidelines - Apple Developer",
+      "description": "Throughout iOS, people—not apps—are in control. An app can suggest a course of action or warn about dangerous consequences, but it’s usually a mistake for the app to take over the decision-making.",
+      "image": "https://www.lavendaire.com/wp-content/uploads/2016/01/reading-list.jpg",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/",
+      "categories": ["ui/ux"],
+      "dateAdded": "Jan 5, 2020"
+    },
+    {
+      "title": "Graphics",
+      "description": "A brief history of graphics.",
+      "image": "https://www.lavendaire.com/wp-content/uploads/2016/01/reading-list.jpg",
+      "url": "https://www.youtube.com/watch?v=QyjyWUrHsFc",
+      "categories": ["general"],
+      "dateAdded": "Jan 5, 2020"
+    },
+    {
+      "title": "The Basics — The Swift Programming Language (Swift 5.1)",
+      "description": "You can use the function during prototyping and early development to create stubs for functionality that hasn’t been implemented yet, by writing as the stub implementation.",
+      "image": "https://www.lavendaire.com/wp-content/uploads/2016/01/reading-list.jpg",
+      "url": "https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html",
+      "categories": ["swift"],
+      "dateAdded": "Jan 5, 2020"
+    },
+    {
+      "title": "Building a Tinder-esque Card Interface",
+      "description": "When I’m not furiously swiping right on Tinder trying desperately to find the love of my life in a sea of random people I’ve never met, I’m…",
+      "image": "https://miro.medium.com/max/1200/1*xNdGVZT6Y-EYTWmFYag24A.png",
+      "url": "https://medium.com/@phillfarrugia/building-a-tinder-esque-card-interface-5afa63c6d3db",
+      "categories": ["swift", "ui/ux"],
+      "dateAdded": "Jan 5, 2020"
+    },
+    {
+      "title": "Tree (data structure) - Wikipedia",
+      "description": "Stepping through the items of a tree, by means of the connections between parents and children, is called , and the action is a '' of the tree.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tree_%28computer_science%29.svg/1200px-Tree_%28computer_science%29.svg.png",
+      "url": "https://www.wikizeroo.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvVHJlZV8oZGF0YV9zdHJ1Y3R1cmUp",
+      "categories": ["general"],
+      "dateAdded": "Jan 5, 2020"
+    },
+    {
+      "title": "Hey Siri Read My Lips",
+      "description": "Article about Siri.",
+      "image": "https://www.lavendaire.com/wp-content/uploads/2016/01/reading-list.jpg",
+      "url": "https://spectrum.ieee.org/the-human-os/biomedical/devices/hey-siri-read-my-lips",
+      "categories": ["general"],
+      "dateAdded": "Jan 5, 2020"
+    },
+    {
+      "title": "gRPC",
+      "description": "gRPC now has a vibrant community of companies, projects, developers who are extending and building around it. Here are some popular projects.",
+      "image": "https://www.grpc.io/img/grpc-logo.png",
+      "url": "https://www.grpc.io/docs/",
+      "categories": ["go"],
+      "dateAdded": "Jan 5, 2020"
+    },
+    {
+      "title": "Docker - How can run the psql command in the postgres container?",
+      "description": "I would like to use the psql in the postgres image in order to run some queries on the database. But unfortunately when I attach to the postgres container, I got that error the psql command is not ...",
+      "image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+      "url": "https://stackoverflow.com/questions/37099564/docker-how-can-run-the-psql-command-in-the-postgres-container/37100169",
+      "categories": ["general"],
+      "dateAdded": "Jan 5, 2020"
+    },
+    {
+      "title": "Writing an OS in Rust",
+      "description": "The best way to support me is to . GitHub will even match sponsorships until October 2020! If you prefer other platforms, I also have and accounts. The latter is the most flexible as it supports multiple currencies and one-time contributions.",
+      "image": "https://www.lavendaire.com/wp-content/uploads/2016/01/reading-list.jpg",
+      "url": "https://os.phil-opp.com",
+      "categories": ["general"],
+      "dateAdded": "Jan 5, 2020"
+    },
+    {
+      "title": "SOLID Principles every Developer Should Know",
+      "description": "A short yet detailed introduction to understanding SOLID design principles.",
+      "image": "https://miro.medium.com/max/1200/1*27QJ5_kV-4rQJ9uhDxVc3w.jpeg",
+      "url": "https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688",
+      "categories": ["general"],
+      "dateAdded": "Jan 5, 2020"
+    },
+    {
+      "title": "Machine Learning for Everyone",
+      "description": "In simple words. With real-world examples. Yes, again",
+      "image": "https://i.vas3k.ru/900/80c.jpg",
+      "url": "https://vas3k.com/blog/machine_learning/?ref=hn",
+      "categories": ["machine learning"],
+      "dateAdded": "Jan 5, 2020"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+.read {
+  padding: 13px !important;
+  color: #f06000 !important;
+}
+.MuiCardHeader-title {
+  font-size: 1.3rem !important;
+  font-weight: 800 !important;
+}
+
+.MuiButton-textSizeLarge {
+  font-size: 1.3rem !important;
+}
+
+@media only screen and (max-width: 900px) {
+  .MuiCardHeader-title {
+    height: 100px;
+  }
+  .MuiCardContent-root {
+    height: 130px;
+  }
+}
+@media only screen and (min-width: 900px) {
+  .MuiCardHeader-title {
+    height: 50px;
+  }
+  .MuiCardContent-root {
+    height: 125px;
+  }
+}
