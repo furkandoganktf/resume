@@ -27,7 +27,6 @@ class Homepage extends Component {
       }.bind(this),
       error: function(xhr, status, err) {
         console.log(err);
-        alert(err);
       }
     });
   }
