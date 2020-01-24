@@ -62,7 +62,7 @@ class Readinglist extends React.Component {
 
   getResumeData() {
     $.ajax({
-      url: "/readingList.json",
+      url: process.env.PUBLIC_URL + "/readingList.json",
       dataType: "json",
       cache: false,
       success: function(data) {
