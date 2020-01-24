@@ -93,7 +93,7 @@
       "description": "Throughout iOS, people—not apps—are in control. An app can suggest a course of action or warn about dangerous consequences, but it’s usually a mistake for the app to take over the decision-making.",
       "image": "https://www.lavendaire.com/wp-content/uploads/2016/01/reading-list.jpg",
       "url": "https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/",
-      "categories": ["ui/ux"],
+      "categories": ["ui/ux", "ios"],
       "dateAdded": "Jan 5, 2020"
     },
     {
@@ -109,7 +109,7 @@
       "description": "You can use the function during prototyping and early development to create stubs for functionality that hasn’t been implemented yet, by writing as the stub implementation.",
       "image": "https://www.lavendaire.com/wp-content/uploads/2016/01/reading-list.jpg",
       "url": "https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html",
-      "categories": ["swift"],
+      "categories": ["ios"],
       "dateAdded": "Jan 5, 2020"
     },
     {
@@ -117,7 +117,7 @@
       "description": "When I’m not furiously swiping right on Tinder trying desperately to find the love of my life in a sea of random people I’ve never met, I’m…",
       "image": "https://miro.medium.com/max/1200/1*xNdGVZT6Y-EYTWmFYag24A.png",
       "url": "https://medium.com/@phillfarrugia/building-a-tinder-esque-card-interface-5afa63c6d3db",
-      "categories": ["swift", "ui/ux"],
+      "categories": ["ios", "ui/ux"],
       "dateAdded": "Jan 5, 2020"
     },
     {
@@ -165,7 +165,7 @@
       "description": "A short yet detailed introduction to understanding SOLID design principles.",
       "image": "https://miro.medium.com/max/1200/1*27QJ5_kV-4rQJ9uhDxVc3w.jpeg",
       "url": "https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688",
-      "categories": ["general"],
+      "categories": ["general", "interview"],
       "dateAdded": "Jan 5, 2020"
     },
     {
@@ -175,6 +175,166 @@
       "url": "https://vas3k.com/blog/machine_learning/?ref=hn",
       "categories": ["machine learning"],
       "dateAdded": "Jan 5, 2020"
+    },
+    {
+      "title": "A'dan Z'ye Amazon Mülakat Tecrübem",
+      "description": "Nisan ayında Amazon’un Dublin ofisinde mülakat yaptıktan ve teklif aldıktan sonra, yaşadığım tecrübeyi paylaşma kararı verdim. Bir gün merakımdan Amazon’nun kariyer sayfasında açık olan ilanlara bakıyordum. O gün gözüme bir pozisyon takıldı, iş ilanında güvenlik alanındaki verilerin analizi için uğraşacak, Scala ve Spark bilen kişi arıyorlardı. Çok sıradan …",
+      "image": "https://www.lavendaire.com/wp-content/uploads/2016/01/reading-list.jpg",
+      "url": "https://www.koseburak.net/blog/amazon-mulakat/",
+      "categories": ["general", "interview"],
+      "dateAdded": "Jan 6, 2020"
+    },
+    {
+      "title": "How to deploy your react application to GitHub-pages in less than 5 minutes",
+      "description": "A friend contacted me recently, he hosts some of his websites on Github and points his domain name to hosted projects on gh-pages. He just…",
+      "image": "https://miro.medium.com/max/900/1*5ybVj54fnQOms-TmENQArA.png",
+      "url": "https://medium.com/the-andela-way/how-to-deploy-your-react-application-to-github-pages-in-less-than-5-minutes-8c5f665a2d2a",
+      "categories": ["react"],
+      "dateAdded": "Jan 6, 2020"
+    },
+    {
+      "title": "How to leverage your React skills with static site generator Gatsby.js",
+      "description": "Sometimes a dynamic single-page app is overkill. You just need to get some attractive information on the internet. Welcome back to static sites. With the Gatsby.js [https://www.gatsbyjs.org] framework, you don’t have to leave your React skills behind in the pursuit of faster, better, weaker. Hiking above the treeline in Bucegi, Romania — totally unrelated to web development, but prettyWhat is a static site and why do you want one? A static site, as opposed to a dynamic site, is one that a) do",
+      "image": "https://cdn-media-1.freecodecamp.org/images/1*0I74xPQNi5ngVIpsTxsLhg.jpeg",
+      "url": "https://www.freecodecamp.org/news/how-to-leverage-your-react-skills-with-static-site-generator-gatsby-js-81843e928606/",
+      "categories": ["react"],
+      "dateAdded": "Jan 6, 2020"
+    },
+    {
+      "title": "Is Gatsby really that great? - LogRocket Blog",
+      "description": "A post-mortem on using Gatsby, Algolia, and Netlify for building a personal site.",
+      "image": "https://i1.wp.com/blog.logrocket.com/wp-content/uploads/2019/05/is-gatsby-really-that-great.jpg?fit=1024%2C576&amp;ssl=1",
+      "url": "https://blog.logrocket.com/is-gatsby-really-that-great-e7b19c4c1c05/",
+      "categories": ["general"],
+      "dateAdded": "Jan 6, 2020"
+    },
+    {
+      "title": "YARN vs. NPM",
+      "description": "Inspired by the latest (May 2018 if you’re reading this at a later time) viral trend of Yanni vs Laurel this blog is going to explain the…",
+      "image": "https://miro.medium.com/max/1200/1*HKR-e3jdWPSp0bHWUEL4Gw.png",
+      "url": "https://medium.com/@j.dumadag718/yarn-vs-npm-b2d58289fb9b",
+      "categories": ["node"],
+      "dateAdded": "Jan 6, 2020"
+    },
+    {
+      "title": "BohdanOrlov/iOS-Developer-Roadmap",
+      "description": "Roadmap to becoming an iOS developer in 2018. Contribute to BohdanOrlov/iOS-Developer-Roadmap development by creating an account on GitHub.",
+      "image": "https://avatars2.githubusercontent.com/u/6740223?s=400&amp;v=4",
+      "url": "https://github.com/BohdanOrlov/iOS-Developer-Roadmap",
+      "categories": ["ios"],
+      "dateAdded": "Jan 6, 2020"
+    },
+    {
+      "title": "Sorting Algorithms Animations",
+      "description": "Animation, code, analysis, and discussion of 8 sorting algorithms on 4 initial conditions.",
+      "image": "https://bs-uploads.toptal.io/blackfish-uploads/generic_page/seo/og_image_file/og_image/27769/og_image_76642a-76642aa3fbe8f00d2a15c9c80eec68e6.jpg",
+      "url": "https://www.toptal.com/developers/sorting-algorithms",
+      "categories": ["algorithms"],
+      "dateAdded": "Jan 6, 2020"
+    },
+    {
+      "title": "Sorting Algorithms | Interactive | Computing",
+      "description": "Watch animated sorting algorithms sort your own numbers on this interactive page to help students of KS3 Computing and GCSE Computer Science.",
+      "image": "https://www.lavendaire.com/wp-content/uploads/2016/01/reading-list.jpg",
+      "url": "https://www.advanced-ict.info/interactive/algorithms.html",
+      "categories": ["algorithms"],
+      "dateAdded": "Jan 6, 2020"
+    },
+    {
+      "title": "A tour of the top 5 sorting algorithms with Python code",
+      "description": "Sorting is a skill that every software engineer and developer needs some knowledge of. Not only to pass coding interviews but as a general…",
+      "image": "https://miro.medium.com/max/596/1*ipkeWQ_Lb0lbkhB8rigxTA.png",
+      "url": "https://medium.com/@george.seif94/a-tour-of-the-top-5-sorting-algorithms-with-python-code-43ea9aa02889",
+      "categories": ["algorithms", "python"],
+      "dateAdded": "Jan 6, 2020"
+    },
+    {
+      "title": "Introducing Hooks – React",
+      "description": "A JavaScript library for building user interfaces",
+      "image": "https://reactjs.org/logo-og.png",
+      "url": "https://reactjs.org/docs/hooks-intro.html",
+      "categories": ["react"],
+      "dateAdded": "Jan 6, 2020"
+    },
+    {
+      "title": "Building Basic React Authentication",
+      "description": "Using hooks and context with react router",
+      "image": "https://miro.medium.com/max/640/0*8s2VTz1RPFDmAxl7.jpg",
+      "url": "https://medium.com/better-programming/building-basic-react-authentication-e20a574d5e71",
+      "categories": ["react", "security"],
+      "dateAdded": "Jan 6, 2020"
+    },
+    {
+      "title": "How to Use React Hooks in Class Components",
+      "description": "What can you do if you want to use Hooks logic inside a class component, but there's no option to rewrite that class to Hook?",
+      "image": "https://photos.infinum.com/store/493bfba5c74a9ff9c26b2247a0588244.jpg",
+      "url": "https://infinum.com/the-capsized-eight/how-to-use-react-hooks-in-class-components",
+      "categories": ["react"],
+      "dateAdded": "Jan 6, 2020"
+    },
+    {
+      "title": "React + Redux - User Registration and Login Tutorial & Example | Jason Watmore's Blog",
+      "description": "LAST UPDATED: NOVEMBER 20 2019 - Tutorial on how to implement user registration and login functionality with React and Redux, including a boilerplate demo application and video on how to deploy to AWS.",
+      "image": "https://www.lavendaire.com/wp-content/uploads/2016/01/reading-list.jpg",
+      "url": "https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example",
+      "categories": ["react"],
+      "dateAdded": "Jan 6, 2020"
+    },
+    {
+      "title": "Randall Degges - Please Stop Using Local Storage",
+      "description": "Stop using local storage to store sensitive information. If you're putting a JWT in local storage you're doing it wrong.",
+      "image": "https://d33wubrfki0l68.cloudfront.net/85a9b3d6a7f946650ad298b6b0c3c4344fc0d5ef/6a366/static/images/2018/grumpy-rage-face.jpg",
+      "url": "https://www.rdegges.com/2018/please-stop-using-local-storage/",
+      "categories": ["general", "security"],
+      "dateAdded": "Jan 6, 2020"
+    },
+    {
+      "title": "Using JWT in Your React+Redux App for Authorization",
+      "description": "An explanation and guide for how to handle JWT and Authentication in the frontend of your web app",
+      "image": "https://miro.medium.com/max/800/1*21uJ1YDk7qllnM1DaHkhxg.png",
+      "url": "https://levelup.gitconnected.com/using-jwt-in-your-react-redux-app-for-authorization-d31be51a50d2",
+      "categories": ["react", "security"],
+      "dateAdded": "Jan 6, 2020"
+    },
+    {
+      "title": "Securing React Redux Apps With JWT Tokens",
+      "description": "JSON Web Token (JWT) is a way to generate auth tokens. It’s is an open standard (RFC 7519) that defines a simple way for securely…",
+      "image": "https://miro.medium.com/max/1200/1*d6YcPvq7TeU0DTamj629xw.png",
+      "url": "https://medium.com/@rajaraodv/securing-react-redux-apps-with-jwt-tokens-fcfe81356ea0",
+      "categories": ["react", "security"],
+      "dateAdded": "Jan 6, 2020"
+    },
+    {
+      "title": "I’ll Never Go Back to JavaScript",
+      "description": "How I feel about Web Development after learning TypeScript",
+      "image": "https://miro.medium.com/max/750/1*UZTUn1FWaVqWD-MyD_Cqjw.jpeg",
+      "url": "https://medium.com/javascript-in-plain-english/ill-never-go-back-to-javascript-16370dc264a0",
+      "categories": ["javascript"],
+      "dateAdded": "Jan 6, 2020"
+    },
+    {
+      "title": "Machine Learning Tutorial | Machine Learning with Python - Javatpoint",
+      "description": "Machine Learning Tutorial | Machine Learning with Python with Machine Learning, Machine Learning Tutorial, Machine Learning Introduction, What is Machine Learning, Data Machine Learning, Applications of Machine Learning, Machine Learning vs Artificial Intelligence, dimensionality reduction, deep learning, etc.",
+      "image": "https://www.javatpoint.com/images/logo/jtp_logo.png",
+      "url": "https://www.javatpoint.com/machine-learning",
+      "categories": ["machine learning", "python"],
+      "dateAdded": "Jan 6, 2020"
+    },
+    {
+      "title": "Wat",
+      "description": "The sarcasm in this talk does not represent anyone's actual opinion. For a more serious take on software, try Destroy All Software Screencasts: 10 to 15 minutes every other week, dense with information on advanced topics like Unix, TDD, OO Design, Vim, Ruby, and Git.",
+      "image": "https://www.lavendaire.com/wp-content/uploads/2016/01/reading-list.jpg",
+      "url": "https://www.destroyallsoftware.com/talks/wat",
+      "categories": ["general"],
+      "dateAdded": "Jan 6, 2020"
+    },
+    {
+      "title": "How to Create a Location-Based App",
+      "description": "Geo-based apps everywhere – from Uber to Expedia. We’re digging into how they work, what technologies use, and how to build a location based app.",
+      "image": "https://www.cleveroad.com/images/article-previews/97fc81e41249a2340890a2ed4bc81971d9e89a2ede35f1b6d04b9df497147674.jpg",
+      "url": "https://www.cleveroad.com/blog/location-based-app-development",
+      "categories": ["general"],
+      "dateAdded": "Jan 6, 2020"
     }
   ]
 }
