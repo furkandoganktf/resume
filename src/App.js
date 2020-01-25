@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import ReactGA from "react-ga";
 import Homepage from "./Components/Homepage.js";
-import Readinglist from "./Components/Sidebar/ReadingList";
+import Readinglist from "./Components/ReadingList/ReadingList";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 class App extends Component {

@@ -66,7 +66,8 @@ class Readinglist extends React.Component {
       dataType: "json",
       cache: false,
       success: function(data) {
-        this.setState({ readingList: data.readingList.reverse(), filteredList: data.readingList.reverse() });
+        var result = data.readingList.reverse();
+        this.setState({ readingList: result, filteredList: result });
       }.bind(this),
       error: function(xhr, status, err) {
         console.log(err);
@@ -104,6 +105,7 @@ class Readinglist extends React.Component {
 
   CardGenerator = () => {
     let result = [];
+    console.log(this.state.filteredList);
     this.state.filteredList.forEach((element, index) => {
       result.push(
         <Grid key={index} item xs={6} sm={6} md={3} lg={3}>
