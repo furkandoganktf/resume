@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import ReactGA from "react-ga";
 import Homepage from "./Components/Homepage.js";
+import Aboutme from "./Components/Aboutme.js";
+
 import Readinglist from "./Components/ReadingList/ReadingList";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
@@ -19,6 +21,7 @@ class App extends Component {
         <Switch>
           <Route exact path="/" render={props => <Homepage {...props} />} />
           <Route path="/reading" render={props => <Readinglist {...props} />} />
+          <Route path="/me" render={props => <Aboutme {...props} />} />
         </Switch>
       </Router>
     );

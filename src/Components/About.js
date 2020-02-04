@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { NavLink } from "react-router-dom";
 
 class About extends Component {
   render() {
@@ -22,8 +23,10 @@ class About extends Component {
             <img className="profile-pic" src={profilepic} alt="Furkan Dogan Profile Pic" />
           </div>
           <div className="nine columns main-col">
-            <h2>About Me</h2>
-
+            {/* <h2>About Me</h2> */}
+            <NavLink to="/me">
+              <h2>About Me</h2>
+            </NavLink>
             <p>{bio}</p>
             <div className="row">
               <div className="columns contact-details">

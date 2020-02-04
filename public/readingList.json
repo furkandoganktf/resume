@@ -335,6 +335,262 @@
       "url": "https://www.cleveroad.com/blog/location-based-app-development",
       "categories": ["general"],
       "dateAdded": "Jan 6, 2020"
+    },
+    {
+      "title": "JWT(JSON Web Tokens) ile Express REST API Güvenliği #2",
+      "description": "JWT(JSON Web Token) kullanarak NodeJS Express API için Authorization işlemine bakacağız.",
+      "image": "https://miro.medium.com/max/1000/1*F_e-qG-uMNTvdPORwqvxfg.png",
+      "url": "https://medium.com/@tugrulbayrak/jwt-json-web-tokens-ile-express-rest-api-g%C3%BCvenli%C4%9Fi-2-517cc44e846c",
+      "categories": ["javascript", "Security"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "Good Developers Are Smart Not Clever.",
+      "description": "Good code is expressive, not impressive.",
+      "image": "https://miro.medium.com/max/1200/0*5Ul2ftgASKuwiG_z",
+      "url": "https://medium.com/swlh/good-developers-are-smart-not-clever-4d1d4bde8868",
+      "categories": ["general"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "The 7 Programming Languages & Frameworks to Learn in 2020",
+      "description": "Choosing the right programming languages or framework for your applications impacts not only the speed and timeline of the development, but…",
+      "image": "https://miro.medium.com/max/250/1*Y547A1WkJDBXb4OYF_JSjg.png",
+      "url": "https://medium.com/swlh/the-7-programming-languages-frameworks-to-learn-in-2020-6f9ac923ec5d",
+      "categories": ["general"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "How to Use Async/Await with Axios in React",
+      "description": "Make sure you’ve installed axios in your react app by",
+      "image": "https://miro.medium.com/max/1200/1*bzZY7qtDF056z0Cvi1lAzA.png",
+      "url": "https://medium.com/better-programming/how-to-use-async-await-with-axios-in-react-e07daac2905f",
+      "categories": ["react", "javascript"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "How to use Django with MongoDB",
+      "description": "In this blog i will be showing how to connect to a MongoDB database in Django using a library called Djongo.",
+      "image": "https://miro.medium.com/fit/c/160/160/2*JBsnXShZXNO_wrreu_ifaQ.jpeg",
+      "url": "https://medium.com/@ksarthak4ever/how-to-use-django-with-mongodb-40ba36a21124",
+      "categories": ["django", "database"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "Time series modelling",
+      "description": "This is short article about understanding time series and main characteristics behind that.",
+      "image": "https://miro.medium.com/max/976/1*qZSdl5ohvlVNVZxyKG4f3A.png",
+      "url": "https://medium.com/@ATavgen/time-series-modelling-a9bf4f467687",
+      "categories": ["general"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "The real difference between single quotes (‘ ’) and double quotes (“ ”) in JavaScript",
+      "description": "Should I use ‘ ’ or “ ” for strings in JavaScript? The answer surprised me: either quote character is identical except for when escaping…",
+      "image": "https://miro.medium.com/max/1200/0*-xCMDxih2Hh7oug3",
+      "url": "https://medium.com/javascript-in-plain-english/the-real-difference-between-single-quotes-and-double-quotes-in-javascript-3d00bf720bcd",
+      "categories": ["javascript"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "Guide: First Serverless Project",
+      "description": "Let’s learn about the Serverless Framework!",
+      "image": "https://miro.medium.com/max/1200/1*CuALG7dV2rLky1sapJbnUQ.png",
+      "url": "https://medium.com/serverlessguru/guide-first-serverless-project-630b91366505",
+      "categories": ["general"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "Tutorial: how to deploy a production React app to Heroku",
+      "description": "Create-react-app and Heroku are great tools for building highly performant apps, but the React and Heroku docs have very little information…",
+      "image": "https://miro.medium.com/max/490/1*wGhiyH4w0SNIeHBGGtmzsg.png",
+      "url": "https://medium.com/jeremy-gottfrieds-tech-blog/tutorial-how-to-deploy-a-production-react-app-to-heroku-c4831dfcfa08",
+      "categories": ["react"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "RethinkDb and socket.io example",
+      "description": "Today we are going to introduce you to RethinkDB and socket.io. Two great technologies that work great together for real time applications.",
+      "image": "https://miro.medium.com/max/1200/1*dSrqKgL6dOdfg9b-qz5_OQ.png",
+      "url": "https://medium.com/@cpenarrieta/rethinkdb-and-socket-io-example-361e6fe66de4",
+      "categories": ["general", "database"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "Java Collections — 3 — HashMap",
+      "description": "Map Interface somut sınıflarındandır. HashMap sınıfına, karışık eşleme de denilebilir. Eşleme tablosuna eleman ekleme, çıkartma işlemlerinde ve anahtarı verilen elemanı tabloda bulma işlemlerinde…",
+      "image": "https://miro.medium.com/max/1200/0*PA8q5ns2X5TL098Q.png",
+      "url": "https://medium.com/gokhanyavas/java-collections-3-hashmap-dda87916acae",
+      "categories": ["java"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "How to write event handlers in React",
+      "description": "Learn how to declare event handlers in this article by Adam Boduch, a seasoned web application developer with a breadth of experience…",
+      "image": "https://miro.medium.com/max/1200/1*ivjksIhvAs7TUXbQCxAU0A.jpeg",
+      "url": "https://medium.com/javascript-in-plain-english/declaring-event-handlers-d63b17e170d9",
+      "categories": ["react", "javascript"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "How to Build a Simple Web App with React, Graphql, and Go",
+      "description": "Just because Node.js is popular, doesn't mean you shouldn't give Golang a try!",
+      "image": "https://miro.medium.com/max/1200/1*AKsqJ7RQArFz0ro-cQGrPw.jpeg",
+      "url": "https://medium.com/@chrischuck35/how-to-build-a-simple-web-app-in-react-graphql-go-e71c79beb1d",
+      "categories": ["general", "react", "go"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "Go for Type Simplicity in Go",
+      "description": "I have been writing code in Go (golang) full time for almost two years now (wow, time flies). Before Go, I spent my career writing Java…",
+      "image": "https://miro.medium.com/max/490/1*LpnzYkg7-Mp_j8f0xHj3Og.png",
+      "url": "https://medium.com/learning-the-go-programming-language/go-for-type-simplicity-in-go-add935c3f2e",
+      "categories": ["go"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "Kubernetes nedir?",
+      "description": "Kubernetes’in kelimesi Yunancadan geliyor ve anlamı dümenci (helmsman) veya pilot olarak karşımıza çıkıyor. Çoğu kaynaklarda kubernetesi…",
+      "image": "https://miro.medium.com/max/640/1*Cfne7IMfwQbKpwniyuSPgw@2x.jpeg",
+      "url": "https://medium.com/devopsturkiye/kubernetes-nedir-eb5c5d149e69",
+      "categories": ["general"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "Minimal MongoDB Replica Set (OSX)",
+      "description": "Why?",
+      "image": "https://miro.medium.com/max/800/1*KNNFlV87G765LKn1_nSKQw.png",
+      "url": "https://medium.com/@katopz/minimal-mongodb-replica-set-osx-76dc9dc36018",
+      "categories": ["database"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "10 Extremely Helpful Visual Studio Code Plugins for Programmers",
+      "description": "A list of plugins that make your life as a programmer so much easier",
+      "image": "https://miro.medium.com/max/1200/0*1DDCH4PTAgWaORGR",
+      "url": "https://medium.com/better-programming/10-extremely-helpful-visual-studio-code-plugins-for-programmers-c8520a3dc4b8",
+      "categories": ["general", "life"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "5 Front-End Challenges to Code (Dec. 2019 Edition)",
+      "description": "Keep your front-end skills sharp and work through these challenges",
+      "image": "https://miro.medium.com/max/1200/0*Zp0_qI6UbCtjHQQG",
+      "url": "https://medium.com/better-programming/here-are-5-front-end-challenges-to-code-dec-2019-edition-7d691c4b023",
+      "categories": ["ui/ux"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "How to Start Using .map() .filter() and .reduce()",
+      "description": "An explanation that doesn’t assume you‘re a developer",
+      "image": "https://miro.medium.com/max/1200/1*5IwI3UFT8BmTwyY9k_vcbg.jpeg",
+      "url": "https://medium.com/better-programming/how-to-start-using-map-filter-and-reduce-e01edba0d81",
+      "categories": ["general"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "Common Coding Mistakes You Should Avoid",
+      "description": "These are the mistakes that many developers make",
+      "image": "https://miro.medium.com/max/1200/1*QoPGTbdAHcK-xR4pU4yu5w.jpeg",
+      "url": "https://medium.com/better-programming/common-coding-mistakes-you-should-avoid-441f9e51faea",
+      "categories": ["general"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "How To Create Meaningful Names In Code",
+      "description": "Simple rules you can follow to create good names",
+      "image": "https://miro.medium.com/max/1200/1*OLAqSUqkqFec5ueSCdnt8A.png",
+      "url": "https://medium.com/better-programming/how-to-create-meaningful-names-in-code-20d7476537d4",
+      "categories": ["general"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "Understanding Sorting Algorithms",
+      "description": "Comprehending the nuts and bolts of sorting algorithms can be daunting. But, getting comfortable talking about some of the well-known…",
+      "image": "https://miro.medium.com/max/1200/1*hkIZs7mu3PncoZjkJykzdA.jpeg",
+      "url": "https://medium.com/jl-codes/understanding-sorting-algorithms-af6222995c8",
+      "categories": ["general"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "A simple intro to Javascript imports and exports",
+      "description": "Code (and most anything) is easier to manage when it is in small, bite-size chunks. This is the thinking behind keeping functions to only…",
+      "image": "https://miro.medium.com/max/1200/1*_xJNRS-4CfaoW808fCsxJQ.png",
+      "url": "https://medium.com/@thejasonfile/a-simple-intro-to-javascript-imports-and-exports-389dd53c3fac",
+      "categories": ["javascript"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "5 things I learnt, learning React",
+      "description": "Some background first. I am by no means an expert on react, in fact I feel as though I am a little late to the party when it comes to..",
+      "image": "https://miro.medium.com/max/1200/1*sKRaI_Y1u3UaQpJUfLnKVQ.png",
+      "url": "https://medium.com/@Jason_Matthew/5-things-i-learnt-learning-react-3c9d507edf39",
+      "categories": ["react"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "Turning the iPhone 6s Into a Digital Scale",
+      "description": "How to turn an iPhone 6s into a digital scale without salami.",
+      "image": "https://miro.medium.com/freeze/max/854/1*3piiaM6_gCaBeyovLHhS9A.gif",
+      "url": "https://medium.com/swlh/turning-the-iphone-6s-into-a-digital-scale-f2197dc2b6e7",
+      "categories": ["ios"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "The Biggest Sign of a Senior Developer",
+      "description": "I am always surprised when I overhear a conversation about what makes a developer senior, and the most important virtue is completely…",
+      "image": "https://miro.medium.com/max/1200/0*hBZppbpMkUknISJM",
+      "url": "https://medium.com/swlh/the-biggest-sign-of-a-senior-developer-547598987e02",
+      "categories": ["general"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "Bored? 7 Fun Things You Can Build",
+      "description": "From a Tetris to smart contracts and more",
+      "image": "https://miro.medium.com/max/1200/0*9UmMh5OjrKwtU75x",
+      "url": "https://medium.com/better-programming/bored-7-fun-things-you-can-build-91833439b5d4",
+      "categories": ["general"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "Lessons I learnt from building my first large-scale app",
+      "description": "8 months ago, I began developing an Electron app. To complete the task, I had to build 3 individual sub-apps to run in different…",
+      "image": "https://miro.medium.com/max/1200/1*pbt_JnRZPJbAd3elVuNNxQ.jpeg",
+      "url": "https://medium.com/javascript-in-plain-english/lessons-i-learnt-from-building-my-first-large-scale-app-281c56df8571",
+      "categories": ["general"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "How does Python work?",
+      "description": "A simple explanation of how Python code is executed differently than older programming languages.",
+      "image": "https://miro.medium.com/max/1080/0*vipDMSvBcpP-mZmC",
+      "url": "https://towardsdatascience.com/how-does-python-work-6f21fd197888",
+      "categories": ["python"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "The Edge You Need at Your Next Interview",
+      "description": "A simple 3-step system for Data Scientists to leave an impression",
+      "image": "https://miro.medium.com/max/1200/1*kaxLeEdOL1fIeSnmke6wqA.png",
+      "url": "https://towardsdatascience.com/the-edge-you-need-at-your-next-interview-c8cb0ab53da",
+      "categories": ["interview"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "ES6, ES7, ES8 ve ES.Next nedir? Eski Javascript’ten farkı nedir?",
+      "description": "ES6, ES7, ES8 Javascript’in çekirdeğini oluşturan ECMAScript in yeni versiyonlarının isimleridir. ECMAScript bir yazılım dili standardıdır…",
+      "image": "https://miro.medium.com/max/749/1*yQiY31KE0BkhzxXfE_CHLw.jpeg",
+      "url": "https://medium.com/@yunusozcan/es6-es7-es8-ve-es-next-nedir-eski-javascriptten-fark%C4%B1-nedir-dc359cc213bc",
+      "categories": ["javascript"],
+      "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "JavaScript’te Async/Await Kullanımı",
+      "description": "Bu yazıda EcmaScript6 ile hayatımıza giren async/await fonksiyonların neden ve nasıl kullanıldığını açıklamaya çalışacağım.",
+      "image": "https://miro.medium.com/max/640/1*nK-Y3tRTmIF1C5_DOi3Ueg.png",
+      "url": "https://medium.com/@isagul/javascriptte-async-await-kullan%C4%B1m%C4%B1-95be3d16b62a",
+      "categories": ["javascript"],
+      "dateAdded": "Feb 2, 2020"
     }
   ]
 }
