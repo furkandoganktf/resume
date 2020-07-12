@@ -17,28 +17,28 @@ const styles = {
     textDecoration: "none",
     color: "white",
     padding: 8,
-    backgroundColor: "transparent"
+    backgroundColor: "transparent",
   },
   content: {
-    padding: "16px"
+    padding: "16px",
   },
   card: {
-    maxWidth: 450
+    maxWidth: 450,
   },
   media: {
     height: 0,
-    paddingTop: "56.25%" // 16:9
+    paddingTop: "56.25%", // 16:9
   },
   avatar: {
-    backgroundColor: "red"
+    backgroundColor: "red",
   },
   controlArea: {
-    float: "right"
+    float: "right",
   },
   readButton: {
     backgroundColor: "#00d1b2",
-    color: "white"
-  }
+    color: "white",
+  },
 };
 
 const mql = window.matchMedia(`(min-width: 800px)`);
@@ -52,7 +52,7 @@ class Readinglist extends React.Component {
       open: false,
       readingList: [],
       filteredList: [],
-      filterValue: "all"
+      filterValue: "all",
     };
 
     this.mediaQueryChanged = this.mediaQueryChanged.bind(this);
@@ -65,13 +65,13 @@ class Readinglist extends React.Component {
       url: process.env.PUBLIC_URL + "/readingList.json",
       dataType: "json",
       cache: false,
-      success: function(data) {
+      success: function (data) {
         var result = data.readingList.reverse();
         this.setState({ readingList: result, filteredList: result });
       }.bind(this),
-      error: function(xhr, status, err) {
+      error: function (xhr, status, err) {
         console.log(err);
-      }
+      },
     });
   }
 
@@ -91,7 +91,7 @@ class Readinglist extends React.Component {
   mediaQueryChanged() {
     this.setState({
       docked: mql.matches,
-      open: false
+      open: false,
     });
   }
 
@@ -105,7 +105,6 @@ class Readinglist extends React.Component {
 
   CardGenerator = () => {
     let result = [];
-    console.log(this.state.filteredList);
     this.state.filteredList.forEach((element, index) => {
       result.push(
         <Grid key={index} item xs={6} sm={6} md={3} lg={3}>
@@ -128,13 +127,13 @@ class Readinglist extends React.Component {
     return result;
   };
 
-  filterList = e => {
+  filterList = (e) => {
     var filterText = e.target.innerText.toLowerCase();
     var readingList = this.state.readingList;
-    var filtered = filterText === "all" ? readingList : readingList.filter(d => d.categories.includes(filterText));
+    var filtered = filterText === "all" ? readingList : readingList.filter((d) => d.categories.includes(filterText));
     this.setState({
       filteredList: filtered,
-      filterValue: filterText
+      filterValue: filterText,
     });
   };
 
@@ -156,13 +155,13 @@ class Readinglist extends React.Component {
       sidebar,
       docked: this.state.docked,
       open: this.state.open,
-      onSetOpen: this.onSetOpen
+      onSetOpen: this.onSetOpen,
     };
 
     const sidebarStyles = {
       content: {
-        backgroundColor: "#f1f1f1"
-      }
+        backgroundColor: "#f1f1f1",
+      },
     };
 
     return (
