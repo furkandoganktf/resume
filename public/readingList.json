@@ -137,14 +137,6 @@
       "dateAdded": "Jan 5, 2020"
     },
     {
-      "title": "gRPC",
-      "description": "gRPC now has a vibrant community of companies, projects, developers who are extending and building around it. Here are some popular projects.",
-      "image": "https://www.grpc.io/img/grpc-logo.png",
-      "url": "https://www.grpc.io/docs/",
-      "categories": ["go"],
-      "dateAdded": "Jan 5, 2020"
-    },
-    {
       "title": "Docker - How can run the psql command in the postgres container?",
       "description": "I would like to use the psql in the postgres image in order to run some queries on the database. But unfortunately when I attach to the postgres container, I got that error the psql command is not ...",
       "image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
@@ -591,6 +583,262 @@
       "url": "https://medium.com/@isagul/javascriptte-async-await-kullan%C4%B1m%C4%B1-95be3d16b62a",
       "categories": ["javascript"],
       "dateAdded": "Feb 2, 2020"
+    },
+    {
+      "title": "Absolute vs Relative Imports in Python – Real Python",
+      "description": "If you’ve worked on a Python project that has more than one file, chances are you’ve had to use an import statement before. In this tutorial, you’ll not only cover the pros and cons of absolute and relative imports but also learn about the best practices for writing import statements.",
+      "image": "https://files.realpython.com/media/imports.9d65e7197280.jpg",
+      "url": "https://realpython.com/absolute-vs-relative-python-imports/",
+      "categories": ["python"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "How to Save Your Brainpower and Code More Efficiently",
+      "description": "If you knew these tools existed, you'd probably be using them by now. This article isn’t going to tell you about saving your neck with a Roost stand, or your wrists with a split keyboard.",
+      "image": "https://www.freecodecamp.org/news/content/images/2020/06/ergonomics.png",
+      "url": "https://www.freecodecamp.org/news/how-to-save-your-brainpower-and-code-more-efficiently/",
+      "categories": ["general", "life"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "What is __init__.py for?",
+      "description": "What is __init__.py for in a Python source directory?",
+      "image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+      "url": "https://stackoverflow.com/questions/448271/what-is-init-py-for",
+      "categories": ["python"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "Python Virtual Environments: A Primer – Real Python",
+      "description": "This article details how to use a Python virtual environment to manage your Python projects.",
+      "image": "https://files.realpython.com/media/Python-Virtual-Environments_Watermarked.4c787192d42f.jpg",
+      "url": "https://realpython.com/python-virtual-environments-a-primer/",
+      "categories": ["python"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "Getting Started With setuptools and setup.py — an_example_pypi_project v0.0.5 documentation",
+      "description": "For linux, it would be pretty much the same commands, just changing around the directories to point to the correct python versions.",
+      "image": "https://www.lavendaire.com/wp-content/uploads/2016/01/reading-list.jpg",
+      "url": "https://pythonhosted.org/an_example_pypi_project/setuptools.html",
+      "categories": ["python"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "4 Apps Must Install On Your Mac for Development in 2020",
+      "description": "4 well-chosen apps for developers",
+      "image": "https://miro.medium.com/max/799/1*jY3U_4huItpdsdmTCQTYXw.jpeg",
+      "url": "https://medium.com/swlh/4-apps-must-install-on-your-mac-for-development-in-2020-3d8cd81c316c",
+      "categories": ["general"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "How to efficiently loop through Pandas DataFrame",
+      "description": "If working with data is part of your daily job, you will likely run into situations where you realize you have to loop through a Pandas…",
+      "image": "https://miro.medium.com/max/611/0*d1MhDWTjn6plcVxp",
+      "url": "https://medium.com/swlh/how-to-efficiently-loop-through-pandas-dataframe-660e4660125d",
+      "categories": ["python"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "Documentation",
+      "description": "A high-performance, open source universal RPC framework",
+      "image": "https://grpc.io/img/logos/grpc-icon-color.png",
+      "url": "https://www.grpc.io/docs/",
+      "categories": ["general"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "Keras vs. tf.keras: What’s the difference in TensorFlow 2.0? - PyImageSearch",
+      "description": "In this tutorial you’ll discover the difference between Keras and tf.keras. You'll also learn what’s new in TensorFlow 2.0.",
+      "image": "https://www.pyimagesearch.com/wp-content/uploads/2019/10/keras_vs_tfdotkeras_header.png",
+      "url": "https://www.pyimagesearch.com/2019/10/21/keras-vs-tf-keras-whats-the-difference-in-tensorflow-2-0/",
+      "categories": ["Machine Learning", "python"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "Migrate your TensorFlow 1 code to TensorFlow 2  |  TensorFlow Core",
+      "description": "Except as otherwise noted, the content of this page is licensed under the , and code samples are licensed under the . For details, see the . Java is a registered trademark of Oracle and/or its affiliates.",
+      "image": "https://www.tensorflow.org/images/tf_logo_social.png",
+      "url": "https://www.tensorflow.org/guide/migrate",
+      "categories": ["Machine Learning", "python"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "Tech stack rebuild for a new Facebook.com - Facebook Engineering",
+      "description": "Building a new web app for today’s browsers, we completely rebuilt our tech stack to achieve our goals for performance and sustainable future growth.",
+      "image": "https://engineering.fb.com/wp-content/uploads/2020/05/Comet_hero.jpg",
+      "url": "https://engineering.fb.com/web/facebook-redesign/",
+      "categories": ["general"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "trekhleb/javascript-algorithms",
+      "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings - trekhleb/javascript-algorithms",
+      "image": "https://repository-images.githubusercontent.com/126577260/3c924980-61ac-11e9-8e4e-6e50e0cec366",
+      "url": "https://github.com/trekhleb/javascript-algorithms",
+      "categories": ["javascript", "interview"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "How to gradient fill an SVG from an external stylesheet?",
+      "description": "I love external stylesheets and want to be able to style any SVG graphics via an external sheet. I can declare single colour stroke and fill for my SVG logo but I want a gradient fill. I've tried a...",
+      "image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+      "url": "https://stackoverflow.com/questions/33087256/how-to-gradient-fill-an-svg-from-an-external-stylesheet",
+      "categories": ["ui/ux"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "Get Started - Semantic UI React",
+      "description": "For examples on how to import and use Semantic UI React components, click the code icon () next to any example. Here are a few direct links:",
+      "image": "https://react.semantic-ui.com/logo.png",
+      "url": "https://react.semantic-ui.com/usage/",
+      "categories": ["ui/ux", "react"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "Automation",
+      "description": "xkcd.com is best viewed with Netscape Navigator 4.0 or below on a Pentium 3±1 emulated in Javascript on an Apple IIGSat a screen resolution of 1024x1. Please enable your ad blockers, disable high-heat drying, and remove your devicefrom Airplane Mode and set it to Boat Mode. For security reasons, please leave caps lock on while browsing.",
+      "image": "https://imgs.xkcd.com/comics/automation_2x.png",
+      "url": "https://xkcd.com/1319/",
+      "categories": ["general", "life"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "110% Complete JWT Authentication with Django & React - 2020 | Hacker Noon",
+      "description": "ReactJS is a fantastic frontend framework, and Django is a fantastic backend framework. However, as usual when dealing with anything of more than trivial complexity, it isn’t easy to get the two to place nicely together.",
+      "image": "https://hackernoon.com/drafts/1gn2er5.png",
+      "url": "https://hackernoon.com/110percent-complete-jwt-authentication-with-django-and-react-2020-iejq34ta",
+      "categories": ["javascript", "django"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "Resources",
+      "description": "This is what a GOOD resume should look like. Gayle's Blog Scalability Fundamentals A description of an SRE interview experience Some sage advice for young employees early in their careers.",
+      "image": "http://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/2307283.png",
+      "url": "http://www.crackingthecodinginterview.com/resources.html",
+      "categories": ["interview"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "🐣 From zero to research — An introduction to Meta-learning",
+      "description": "Meta-learning is an exciting trend of research in the machine-learning community which tackles the problem of learning to learn.",
+      "image": "https://miro.medium.com/freeze/max/1004/1*d7V-bAzElJ2XjEO-T4_TnQ.gif",
+      "url": "https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a",
+      "categories": ["Machine Learning"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "10 Steps to Secure Open SSH",
+      "description": "Well we might as well call this month our SSH month since we are full throttle on SSH! Following our “Reverse SSH Port Forwarding” and “How to Configure SSH Tunnel on Putty”, we thought it would be g...",
+      "image": "https://webdevolutions.blob.core.windows.net/blog/2017/04/Secure-Open-SSH-Tunnel.png",
+      "url": "https://blog.devolutions.net/2017/4/10-steps-to-secure-open-ssh",
+      "categories": ["general"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "for-GET/http-decision-diagram",
+      "description": "An activity diagram to describe the resolution of HTTP response status codes, given various headers. - for-GET/http-decision-diagram",
+      "image": "https://avatars2.githubusercontent.com/u/5500015?s=400&amp;v=4",
+      "url": "https://github.com/for-GET/http-decision-diagram",
+      "categories": ["general"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "Machine Learning 101 for Dummies like Me",
+      "description": "Around the Universe",
+      "image": "https://miro.medium.com/max/750/1*yCrFCAmgOukq6SKrO-dBJw.png",
+      "url": "https://towardsdatascience.com/machine-learning-101-for-dummies-like-me-bdc6d03e1a38",
+      "categories": ["Machine Learning"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "5 Tips to Speed Up Your MacBook Productivity",
+      "description": "A collection of hints to improve MacBook performance.",
+      "image": "https://miro.medium.com/max/1200/0*5fcGZ8ROLm2-UgQW",
+      "url": "https://levelup.gitconnected.com/5-tips-to-speed-up-your-macbook-productivity-9ef834d62201",
+      "categories": ["general", "life"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "How to execute several commands after each other with one request to the terminal (without using a file)?",
+      "description": "I could (1) prepare a file with typed commands separated by end-line, (2) make it executable, (3) run it from a file-system manager or the terminal. But this is ridiculous for not repeatable and e...",
+      "image": "https://cdn.sstatic.net/Sites/askubuntu/Img/apple-touch-icon@2.png?v=c492c9229955",
+      "url": "https://askubuntu.com/questions/413866/how-to-execute-several-commands-after-each-other-with-one-request-to-the-termina",
+      "categories": ["general"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "Reset local repository branch to be just like remote repository HEAD",
+      "description": "How do I reset my local branch to be just like the branch on the remote repository? I did: git reset --hard HEAD But when I run a git status, On branch master Changes to be committed: (use \"git",
+      "image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+      "url": "https://stackoverflow.com/questions/1628088/reset-local-repository-branch-to-be-just-like-remote-repository-head",
+      "categories": ["general"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "React-router urls don't work when refreshing or writing manually",
+      "description": "I'm using React-router and it works fine while I'm clicking on link buttons, but when I refresh my webpage it does not load what I want. For instance, I am in localhost/joblist and everything is f...",
+      "image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+      "url": "https://stackoverflow.com/questions/27928372/react-router-urls-dont-work-when-refreshing-or-writing-manually",
+      "categories": ["React"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "Web View iOS Tutorial - iOScreator",
+      "description": "In this tutorial a web browser is created using the WKWebView object.  A website will be loaded, where the title will be displayed and a refresh button will be added to the toolbar. This tutorial is made with Xcode 10 and built for iOS 12.",
+      "image": "http://static1.squarespace.com/static/52428a0ae4b0c4a5c2a2cede/5264cfdde4b070b299b2b0f4/5c9b3457f4e1fc7053a3f4f2/1554062205257/web-view-simulator.png?format=1500w",
+      "url": "https://www.ioscreator.com/tutorials/webview-ios-tutorial",
+      "categories": ["iOS"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "SUBNETTING",
+      "description": "I should start by saying that I’m not planning on going into the different hardware you’d need to split up your networks or anything. You…",
+      "image": "https://miro.medium.com/max/1100/1*1uc1QtzXhdeeDPKnHGcByw.jpeg",
+      "url": "https://medium.com/tech-jobs-academy/subnetting-8ca804ec10c8",
+      "categories": ["general"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "Federated Learning: Collaborative Machine Learning without Centralized Training Data",
+      "description": "Posted by Brendan McMahan and Daniel Ramage, Research Scientists Standard machine learning approaches require centralizing the training data...",
+      "image": "http://2.bp.blogspot.com/-qRz-hnwUdY4/WulXSQ6Rv4I/AAAAAAAATvQ/shk7KsphA0c3E3nUMsDVASqYaH0PhLPNwCK4BGAYYCw/s1600/GoogleAI_logo_horizontal_color_rgb.png",
+      "url": "https://ai.googleblog.com/2017/04/federated-learning-collaborative.html",
+      "categories": ["Machine Learning"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "Federated Learning",
+      "description": "Building better products with on-device data and privacy by default. An online comic from Google AI.",
+      "image": "https://federated.withgoogle.com/assets/meta/facebook.png?1557190726349",
+      "url": "https://federated.withgoogle.com/",
+      "categories": ["Machine Learning"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "How can I get autologin at startup working on Ubuntu Server 16.04.1?",
+      "description": "I have a problem with autologin at startup in Ubuntu Server 16.04.1 LTS. I use this server only for listening internet radio so I do not care about security. I was able to create a bash script t...",
+      "image": "https://cdn.sstatic.net/Sites/askubuntu/Img/apple-touch-icon@2.png?v=c492c9229955",
+      "url": "https://askubuntu.com/questions/819117/how-can-i-get-autologin-at-startup-working-on-ubuntu-server-16-04-1",
+      "categories": ["general"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "How to run scripts on start up?",
+      "description": "How can I run scripts automatically when Ubuntu starts up so I don't have to run them manually after startup?",
+      "image": "https://cdn.sstatic.net/Sites/askubuntu/Img/apple-touch-icon@2.png?v=c492c9229955",
+      "url": "https://askubuntu.com/questions/814/how-to-run-scripts-on-start-up",
+      "categories": ["general"],
+      "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "How to Remotely Manage Ubuntu Server with SSH",
+      "description": "You may often have to access remote servers to administer, manage, and troubleshoot and there are several ways to do this. You may use telnet to login to remote servers; FTP allows transferring files between different servers. However, these programs",
+      "image": "https://vitux.com/wp-content/uploads/2019/04/ubuntu-ssh.jpg",
+      "url": "https://vitux.com/how-to-remotely-manage-a-ubuntu-server-with-ssh/",
+      "categories": ["general"],
+      "dateAdded": "Jul 12, 2020"
     }
   ]
 }
