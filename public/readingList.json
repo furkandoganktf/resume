@@ -839,6 +839,62 @@
       "url": "https://vitux.com/how-to-remotely-manage-a-ubuntu-server-with-ssh/",
       "categories": ["general"],
       "dateAdded": "Jul 12, 2020"
+    },
+    {
+      "title": "Take Advantage of the Enum Class to Implement Enumerations in Python",
+      "description": "Create your own enumerations easily",
+      "image": "https://miro.medium.com/max/1200/0*HMFfpwGakQiKrCR0",
+      "url": "https://medium.com/better-programming/take-advantage-of-the-enum-class-to-implement-enumerations-in-python-1b65b530e1d",
+      "categories": ["python"],
+      "dateAdded": "Aug 23, 2020"
+    },
+    {
+      "title": "Using Trello as a Super Simple CMS | CSS-Tricks",
+      "description": "Sometimes our sites need a little sprinkling of content management. Not always. Not a lot. But a bit. The CMS market is thriving with affordable,",
+      "image": "https://i1.wp.com/css-tricks.com/wp-content/uploads/2020/07/trello-board.png?fit=1200%2C600&ssl=1",
+      "url": "https://css-tricks.com/using-trello-as-a-super-simple-cms/",
+      "categories": ["general","ui/ux"],
+      "dateAdded": "Aug 23, 2020"
+    },
+    {
+      "title": "The Missing Semester of Your CS Education",
+      "description": "We thank Elaine Mello, Jim Cain, and for making it possible for us to record lecture videos; Anthony Zolnik and for A/V equipment; and Brandi Adams and for supporting this class.",
+      "image": "https://www.lavendaire.com/wp-content/uploads/2016/01/reading-list.jpg",
+      "url": "https://missing.csail.mit.edu",
+      "categories": ["general"],
+      "dateAdded": "Aug 23, 2020"
+    },
+    {
+      "title": "Multiple Time Series Classification by Using Continuous Wavelet Transformation",
+      "description": "The purpose of this post is to show why the continuous wavelet transformation is so powerful and how to use it to classify multiple…",
+      "image": "https://miro.medium.com/max/1200/1*DPaaAD053d7L7CNm3Xnhbg.jpeg",
+      "url": "https://towardsdatascience.com/multiple-time-series-classification-by-using-continuous-wavelet-transformation-d29df97c0442",
+      "categories": ["machine learning"],
+      "dateAdded": "Aug 23, 2020"
+    },
+    {
+      "title": "Dynamic Time Warping (DTW)",
+      "description": "Algorithm for Time Series Analysis",
+      "image": "https://miro.medium.com/max/1200/1*nNSlEh65v0df1oJU4j7XvQ.png",
+      "url": "https://medium.com/datadriveninvestor/dynamic-time-warping-dtw-d51d1a1e4afc",
+      "categories": ["general","machine learning"],
+      "dateAdded": "Aug 23, 2020"
+    },
+    {
+      "title": "How To Make Your Pandas Loop 71.803 Times Faster",
+      "description": "Looping through Pandas DataFrames can be very slow — I will show you some very fast options",
+      "image": "https://miro.medium.com/max/1200/1*e7fxK_4DK2QqpGNzoTADAA.png",
+      "url": "https://towardsdatascience.com/how-to-make-your-pandas-loop-71-803-times-faster-805030df4f06",
+      "categories": ["python"],
+      "dateAdded": "Aug 23, 2020"
+    },
+    {
+      "title": "Interview Preparation That Helped Me Get Multiple Offers During the Lockdown",
+      "description": "Preparing for interviews can be overwhelming, especially when you have a full-time job alongside. While there are plenty of resources…",
+      "image": "https://miro.medium.com/max/1200/0*vCKBx7WJEOXUxnm8",
+      "url": "https://medium.com/swlh/interview-preparation-that-helped-me-get-multiple-offers-during-the-lockdown-54675bae8bed",
+      "categories": ["interview"],
+      "dateAdded": "Aug 23, 2020"
     }
   ]
 }
